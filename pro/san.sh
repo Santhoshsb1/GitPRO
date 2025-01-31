@@ -1,1 +1,1 @@
-second code
+git gitlab gitstash gitsquash add commit
